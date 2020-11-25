@@ -1,0 +1,9 @@
+,ND1##length##millimeters,ND2##length##millimeters,NOD##length##millimeters,WThk##length##millimeters,SWid1##length##millimeters,SWid2##length##millimeters,Lgt##length##millimeters
+65x40,65,40,75,2.3,40,20,75
+100x40,100,40,110,3.2,50,25,105
+100x65,100,65,110,3.2,50,40,120
+150x100,150,100,160,4,58,50,135
+40x65,40,65,50,2,20,40,75
+40x100,40,100,50,2,25,50,105
+65x100,65,100,75,2.3,40,50,120
+100x150,100,150,110,3.2,50,58,135

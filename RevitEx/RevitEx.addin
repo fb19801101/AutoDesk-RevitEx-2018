@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+   <AddIn Type="Application">
+      <Assembly>D:\Program Files\Autodesk\Revit 2016\RevitEx.dll</Assembly>
+      <ClientId>369A57E5-9113-4676-AA0D-F358914569C1</ClientId>
+      <FullClassName>RevitEx.App</FullClassName>
+      <Name>RevitEx</Name>
+      <VendorId>ADSK</VendorId>
+      <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>	  
+   </AddIn>
+</RevitAddIns>

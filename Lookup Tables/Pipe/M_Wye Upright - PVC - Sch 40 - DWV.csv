@@ -1,0 +1,6 @@
+,ND1##length##millimeters,ND2##length##millimeters,SED##length##inches,SDpt##length##inches,WThk##length##inches,FOD##length##inches,SBtSBR##length##inches,SBtSBB##length##inches,BOft##length##inches
+1.5,40,-1,1.915,0.687,0.156,1.9,-1,-1,-1
+2x2x2,50,50,2.39,0.75,0.156,2.375,5.5,5.188,3.375
+3x3x3,80,80,3.52,1.5,0.219,3.5,7.5,7.375,5.25
+2x2x1.5,50,40,2.39,0.75,0.156,2.375,4.25,4.125,3.063
+3x3x2,80,50,3.52,1.5,0.219,3.5,5.188,5.313,4.563

@@ -1,0 +1,5 @@
+,ND1##length##inches,ND2##length##inches,ND3##length##inches,POD1##length##inches,POD2##length##inches,POD3##length##inches,SWid1##length##inches,SWid2##length##inches,SWid3##length##inches,SOD1##length##inches,SOD2##length##inches,SOD3##length##inches,PLgt1##length##inches,PLgt3##length##inches,CEL1##length##inches,CEL2##length##inches,CEL3##length##inches
+2X1.5x1.5,2,1.5,1.5,2.375,1.9,1.9,1.5,1.375,1.375,2.823,2.312,2.312,1.1875,1.5,0.875,0.75,0.75
+2X2x1.5,2,2,1.5,2.375,2.375,1.9,1.5,1.5,1.375,2.823,2.823,2.312,1.1875,1.5,0.875,0.875,0.75
+3x3x1.5,3,3,1.5,3.5,3.5,1.9,1.875,1.875,1.375,4.116,4.116,2.312,1.1875,1.875,1.5,1.5,0.75
+3x3x2,3,3,2,3.5,3.5,2.375,1.875,1.875,1.5,4.116,4.116,2.823,1.5,1.875,1.5,1.5,0.875
